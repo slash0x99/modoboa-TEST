@@ -34,7 +34,7 @@
     "filesize": "^10.1.6",
     "js-cookie": "^3.0.5",
     "luxon": "^3.4.4",
-    "oidc-client-ts": "^3.0.1",
+    "oidc-client-ts": "^3.3.0",
     "pinia": "^2.1.7",
     "qrcode.vue": "^3.4.1",
     "roboto-fontface": "*",
