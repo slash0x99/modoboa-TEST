@@ -469,10 +469,10 @@
   resolved "https://registry.yarnpkg.com/@tiptap/extension-bold/-/extension-bold-2.14.0.tgz#53655a81fd11304a83cc654fc4071e519170674d"
   integrity sha512-8DWwelH55H8KtLECSIv0wh8x/F/6lpagV/pMvT+Azujad0oqK+1iAPKU/kLgjXbFSkisrpV6KSwQts5neCtfRQ==
 
-"@tiptap/extension-bubble-menu@^2.14.0":
-  version "2.14.0"
-  resolved "https://registry.yarnpkg.com/@tiptap/extension-bubble-menu/-/extension-bubble-menu-2.14.0.tgz#d51752558323c89ed45ca0118265b9a9e4226166"
-  integrity sha512-sN15n0RjPh+2Asvxs7l47hVEvX6c0aPempU8QQWcPUlHoGf1D/XkyHXy6GWVPSxZ5Rj5uAwgKvhHsG/FJ/YGKQ==
+"@tiptap/extension-bubble-menu@^2.26.1":
+  version "2.26.1"
+  resolved "https://registry.yarnpkg.com/@tiptap/extension-bubble-menu/-/extension-bubble-menu-2.26.1.tgz#7d78abb95bfc96468b40819ec00e2770ddcf63ad"
+  integrity sha512-oHevUcZbTMFOTpdCEo4YEDe044MB4P1ZrWyML8CGe5tnnKdlI9BN03AXpI1mEEa5CA3H1/eEckXx8EiCgYwQ3Q==
   dependencies:
     tippy.js "^6.3.7"
 
@@ -501,10 +501,10 @@
   resolved "https://registry.yarnpkg.com/@tiptap/extension-dropcursor/-/extension-dropcursor-2.14.0.tgz#8036c782790fc96c17daa1def0e3f03279745058"
   integrity sha512-FIh5cdPuoPKvZ0GqSKhzMZGixm05ac3hSgqhMNCBZmXX459qBUI9CvDl/uzSnY9koBDeLVV3HYMthWQQLSXl9A==
 
-"@tiptap/extension-floating-menu@^2.14.0":
-  version "2.14.0"
-  resolved "https://registry.yarnpkg.com/@tiptap/extension-floating-menu/-/extension-floating-menu-2.14.0.tgz#8fc400b0d47c2898552ef09bb0952bf3e6142ddb"
-  integrity sha512-Khx7M7RfZlD1/T/PUlpJmao6FtEBa2L6td2hhaW1USflwGJGk0U/ud4UEqh+aZoJZrkot/EMhEvzmORF3nq+xw==
+"@tiptap/extension-floating-menu@^2.26.1":
+  version "2.26.1"
+  resolved "https://registry.yarnpkg.com/@tiptap/extension-floating-menu/-/extension-floating-menu-2.26.1.tgz#4be572fa98f356d44b1817cff5cd0db819f45c01"
+  integrity sha512-OJF+H6qhQogVTMedAGSWuoL1RPe3LZYXONuFCVyzHnvvMpK+BP1vm180E2zDNFnn/DVA+FOrzNGpZW7YjoFH1w==
   dependencies:
     tippy.js "^6.3.7"
 
@@ -629,13 +629,13 @@
     "@tiptap/extension-text-style" "^2.14.0"
     "@tiptap/pm" "^2.14.0"
 
-"@tiptap/vue-3@^2.11.7":
-  version "2.14.0"
-  resolved "https://registry.yarnpkg.com/@tiptap/vue-3/-/vue-3-2.14.0.tgz#787a336985353d56d59e3592a1c22c19a84c81ba"
-  integrity sha512-w7jzOYmaNgL/1p4q3wRJf4NdvO23IvOgGR6sUM/3ULtjG0dchn9JMpD3Vm7Y9FLSKBcwAWZim4gR6PFIvIsETA==
+"@tiptap/vue-3@^2.22.3":
+  version "2.26.1"
+  resolved "https://registry.yarnpkg.com/@tiptap/vue-3/-/vue-3-2.26.1.tgz#6afb7aa4abfdad7432ead271c3448d23f233296e"
+  integrity sha512-GC0UP+v3KEb0nhgjIHYmWIn5ziTaRqSy8TESXOjG5aljJ8BdP+A0pbcpumB3u0QU+BLUANZqUV2r3l+V18AKYg==
   dependencies:
-    "@tiptap/extension-bubble-menu" "^2.14.0"
-    "@tiptap/extension-floating-menu" "^2.14.0"
+    "@tiptap/extension-bubble-menu" "^2.26.1"
+    "@tiptap/extension-floating-menu" "^2.26.1"
 
 "@types/estree@1.0.7":
   version "1.0.7"
