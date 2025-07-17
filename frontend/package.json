@@ -24,7 +24,7 @@
     "@mdi/font": "^7.3.67",
     "@tiptap/extension-highlight": "^2.11.7",
     "@tiptap/extension-text-align": "^2.11.7",
-    "@tiptap/pm": "^2.11.7",
+    "@tiptap/pm": "^2.22.3",
     "@tiptap/starter-kit": "^2.11.7",
     "@tiptap/vue-3": "^2.11.7",
     "apexcharts": "^3.50.0",
